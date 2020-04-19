@@ -1,27 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>时光驿站</title>
   
-  
+  <subtitle>每天进步一点点</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-04-19T12:58:58.214Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://slightlee.github.io/"/>
+  <updated>2020-04-19T15:06:03.936Z</updated>
+  <id>https://slightlee.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Tomorrow</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World 中</title>
-    <link href="http://yoursite.com/2020/04/18/hello-world/"/>
-    <id>http://yoursite.com/2020/04/18/hello-world/</id>
+    <title>Java 8 新特性</title>
+    <link href="https://slightlee.github.io/2020/04/19/java-8-xin-te-xing/"/>
+    <id>https://slightlee.github.io/2020/04/19/java-8-xin-te-xing/</id>
+    <published>2020-04-19T14:39:19.300Z</published>
+    <updated>2020-04-19T15:06:03.936Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java8中的引入的部分新特性。关于Java8新特性更详细的介绍可参考&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://slightlee.github.io/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://slightlee.github.io/tags/Java/"/>
+    
+      <category term="开发" scheme="https://slightlee.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://slightlee.github.io/2020/04/18/hello-world/"/>
+    <id>https://slightlee.github.io/2020/04/18/hello-world/</id>
     <published>2020-04-18T15:12:25.303Z</published>
-    <updated>2020-04-19T12:58:58.214Z</updated>
+    <updated>2020-04-19T14:41:31.475Z</updated>
     
     <summary type="html">
     
